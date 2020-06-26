@@ -1,2 +1,2 @@
-# css_flexbox
- Estudos sobre flexbox
+# Flexbox
+ Reforçando conceitos de flexbox no CSS
