@@ -1,4 +1,4 @@
-#  FLEXBOX
+#  Flexbox
 
 ## :closed_book: Sobre 
  ### Este é um repositório de estudos
